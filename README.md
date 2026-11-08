@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Krish 👋
+
+Final-year CSE student interested in backend engineering. I build web apps with Node/express and postgres.
+Currently working on projects that solve real-world problems.
 
 <!--
 **krishkumar4400/krishkumar4400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
