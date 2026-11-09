@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=github" width="35"/>
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/krish-kumar-b0b06b261">
+  <a href="https://www.linkedin.com/in/krish-kumar-b0b06b261/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
   </a>
   &nbsp;
