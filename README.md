@@ -208,3 +208,29 @@ I'm always interested in connecting with engineers, developers, and people build
 <p align="center">
   Thanks for visiting my profile!
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/krishkumar4400/krishkumar4400/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/krishkumar4400/krishkumar4400/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/krishkumar4400/krishkumar4400/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <i>Keep building. Keep contributing. Keep growing.</i>
+</p>
+
