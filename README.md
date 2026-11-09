@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/krishkumar4400">
+  <a target="main" href="https://github.com/krishkumar4400">
     <img src="https://skillicons.dev/icons?i=github" width="35"/>
   </a>
   &nbsp;
