@@ -19,15 +19,15 @@
     <img src="https://skillicons.dev/icons?i=github" width="35"/>
   </a>
   &nbsp;
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/krish-kumar-b0b06b261">
     <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
   </a>
   &nbsp;
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/krish_kumar4400/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:krishkumarbgp2022@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35"/>
   </a>
 </p>
