@@ -13,7 +13,7 @@ I enjoy turning engineering problems into practical, reliable, and scalable soft
   <a href="https://linkedin.com/in/krish-kumar-b0b06b261">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[YOUR_LEETCODE_PROFILE_URL](https://leetcode.com/u/krish_kumar4400/)">
+  <a href="[https://leetcode.com/u/krish_kumar4400]">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=krishkumar4400&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
@@ -99,7 +99,7 @@ An AI-powered application exploring practical LLM integrations and intelligent d
 
 **Tech Stack:** JavaScript, Node.js, React, Gemini API, MongoDB.
 
-[Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_NOVALIQ_REPO) · [Live Demo](YOUR_NOVALIQ_DEMO_URL)
+[Repository](https://github.com/krishkumar4400/YOUR_NOVALIQ_REPO) · [Live Demo](YOUR_NOVALIQ_DEMO_URL)
 
 ### 2. Kubernetes Microservices Sandbox
 
@@ -113,7 +113,7 @@ A containerized sandbox environment for dynamically creating and previewing isol
 
 **Tech Stack:** Node.js, Express.js, React, Docker, Kubernetes.
 
-[Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_SANDBOX_REPO)
+[Repository](https://github.com/krishkumar4400/YOUR_SANDBOX_REPO)
 
 ### 3. CollectIQ — Intelligent Receivables Management
 
@@ -127,7 +127,7 @@ An engineering project focused on improving accounts receivable visibility and p
 
 **Tech Stack:** Node.js, TypeScript, PostgreSQL, Redis, Docker.
 
-[Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_COLLECTIQ_REPO)
+[Repository](https://github.com/krishkumar4400/YOUR_COLLECTIQ_REPO)
 
 ---
 
@@ -139,13 +139,13 @@ An engineering project focused on improving accounts receivable visibility and p
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=krishkumar4400&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishkumar4400&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
