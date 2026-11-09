@@ -145,7 +145,11 @@ An engineering project focused on improving accounts receivable visibility and p
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishkumar4400&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
+  <img
+    src="https://YOUR-VERCEL-DOMAIN/graph?username=krishkumar4400&theme=tokyo-night"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
 
 ---
