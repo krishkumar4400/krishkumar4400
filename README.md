@@ -134,18 +134,18 @@ An engineering project focused on improving accounts receivable visibility and p
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishkumar4400&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkumar4400&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=krishkumar4400&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Krish's GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=krishkumar4400&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishkumar4400&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=krishkumar4400&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishkumar4400&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishkumar4400&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
 </p>
 
 ---
