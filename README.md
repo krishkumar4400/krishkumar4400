@@ -1,22 +1,35 @@
-# Hey, I'm Krish Kumar 👋
 
-### Backend Engineer | DevOps & Cloud | AI Engineering
+<h1 align="left">Hey, I'm Krish Kumar 👋</h1>
 
-**Building scalable backend systems, automating infrastructure, and exploring intelligent AI-powered applications.**
+<h3 align="left">
+  Backend Engineer | DevOps & Cloud | AI Engineering
+</h3>
 
-I enjoy turning engineering problems into practical, reliable, and scalable software.
+<p align="left">
+  Building scalable backend systems, automating infrastructure,
+  and exploring intelligent AI-powered applications.
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=38BDF8&width=650&height=50&lines=Backend+Engineer;DevOps+%26+Cloud+Enthusiast;AI+Engineer+in+Progress;Building+Scalable+Systems" />
+</p>
 
 <p align="left">
   <a href="https://github.com/krishkumar4400">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="35"/>
   </a>
-  <a href="https://linkedin.com/in/krish-kumar-b0b06b261">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
   </a>
-  <a href="https://leetcode.com/u/krish_kumar4400/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  &nbsp;
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=krishkumar4400&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35"/>
+  </a>
 </p>
 
 ---
