@@ -199,19 +199,6 @@ I'm always interested in connecting with engineers, developers, and people build
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>"Great software isn't just written. It's engineered."</i>
-</p>
-
-<p align="center">
-  Thanks for visiting my profile!
-</p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -234,3 +221,14 @@ I'm always interested in connecting with engineers, developers, and people build
   <i>Keep building. Keep contributing. Keep growing.</i>
 </p>
 
+---
+
+<p align="center">
+  <i>"Great software isn't just written. It's engineered."</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
+
+---
