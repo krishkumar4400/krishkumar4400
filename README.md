@@ -7,16 +7,16 @@
 I enjoy turning engineering problems into practical, reliable, and scalable software.
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/krishkumar4400">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/krish-kumar-b0b06b261">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_LEETCODE_PROFILE_URL">
+  <a href="[YOUR_LEETCODE_PROFILE_URL](https://leetcode.com/u/krish_kumar4400/)">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=krishkumar4400&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
 ---
